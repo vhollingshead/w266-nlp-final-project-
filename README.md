@@ -27,8 +27,9 @@ In natural language processing (NLP) research, high-resource languages benefit f
 │   ├── M2M100
 │   │   └── Synthetic_splits.json
 │   └── mBART50
-│       └── Culturax_splits_2.json
+│       └── Synthetic_splits.json
 ├── CulturaX
+│   ├── M2M100
 │   │   ├── Culturax_splits_1.json
 │   │   └── Culturax_splits_2.json
 │   └── mBART50
