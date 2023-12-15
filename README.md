@@ -98,6 +98,7 @@ In natural language processing (NLP) research, high-resource languages benefit f
 │   └── Finetune-100-to-200
 │       └── pred_test_tgl_labels.txt
 ├── Final_Project_266.pdf
+├── Investigating Neural Machine Translation Strategies for Tagalog.pdf
 ├── README.md
 ├── gpt3_5_turbo_baseline,_prompt_eng,_finetuning.ipynb
 ├── henry_mBART50.ipynb
