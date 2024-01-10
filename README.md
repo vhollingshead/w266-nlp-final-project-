@@ -1,4 +1,4 @@
-# DATASCI 266: NLP Final Project
+# Investigating Neural Machine Translation Strategies for Tagalog
 
 ## Proposal
 
